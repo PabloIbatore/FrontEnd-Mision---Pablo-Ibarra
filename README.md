@@ -35,17 +35,25 @@ Planeación para la resolución de la demanda:
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-4)
+4) Wireframe - UI
 
 
+![Practica 4 - Wireframe Smartphone](https://user-images.githubusercontent.com/99388008/155654300-fbe88f51-0830-44dc-b838-22da7ecfb411.PNG)
+
+
+![Practica 4 - Wireframe Navegador](https://user-images.githubusercontent.com/99388008/155654313-41645f98-9d0b-4ce8-a643-9118caa08ae4.PNG)
 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-5)
+5) Wireframe - UI
 
 
+![Practica 5 - UX Abogadot 1](https://user-images.githubusercontent.com/99388008/155654271-f6c88c08-4db4-4a7e-bac6-bbf717668f13.PNG)
+
+
+![Practica 5 - UX Abogadot 2](https://user-images.githubusercontent.com/99388008/155654281-d419fadf-f534-4497-935f-c47b9e7f408f.PNG)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
