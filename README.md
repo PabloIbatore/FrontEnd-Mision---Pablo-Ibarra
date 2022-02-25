@@ -1,2 +1,2 @@
-# FrontEnd-Mision---Pablo-Ibarra
+# FrontEnd-Mision - Pablo-Ibarra
 Parte 1 de modulo FrontEnd - Intro
