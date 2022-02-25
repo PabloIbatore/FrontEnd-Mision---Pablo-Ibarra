@@ -28,7 +28,7 @@ Planeación para la resolución de la demanda:
 
 3) Publico Objetivo:
 
-![Target Audience Template](https://user-images.githubusercontent.com/99388008/155641725-bf26b649-5c39-4382-92fe-e330a44cf833.jpg)
+![Target Audience Template](https://user-images.githubusercontent.com/99388008/155641927-be66b74c-7e7d-440c-9338-76ecd270400d.jpg)
 
 
 
